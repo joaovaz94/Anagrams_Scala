@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/joao/Documentos/Programas/Scala/forcomp/src/main/scala/forcomp/Anagrams.scala:165:56: not found: value _1[0m
+[0m[[0m[31merror[0m] [0m[0m    acumulador(sentenceOccurrences(sentence)).sortWith(_1.length < _1.length)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/joao/Documentos/Programas/Scala/forcomp/src/main/scala/forcomp/Anagrams.scala:165:68: not found: value _1[0m
+[0m[[0m[31merror[0m] [0m[0m    acumulador(sentenceOccurrences(sentence)).sortWith(_1.length < _1.length)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
